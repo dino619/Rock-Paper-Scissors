@@ -26,7 +26,7 @@ This project was built using:
 
 ## Screenshot 📸
 
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](screenshot.png)
 
 ---
 
